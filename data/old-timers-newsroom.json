@@ -1,13 +1,13 @@
 {
   "schema": "old-timers-ffl-newsroom",
   "version": "1.0",
-  "generated_at": "2026-09-10T20:07:45.200Z",
+  "generated_at": "2026-09-10T22:11:52.998Z",
   "league": {
     "export_version": "1.0",
     "league_name": "Old Timers VI",
     "league_status": "in_season",
     "current_nfl_week": 1,
-    "last_core_sync": "2026-09-10T20:06:35.890Z",
+    "last_core_sync": "2026-09-10T22:11:16.787Z",
     "player_directory_last_sync": "2026-09-10T11:45:20.715Z"
   },
   "records": [
@@ -20,7 +20,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "manager:1",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "roster_id": 1,
         "manager_name": "Jake",
@@ -37,7 +37,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "manager:2",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "roster_id": 2,
         "manager_name": "Felix",
@@ -54,7 +54,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "manager:3",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "roster_id": 3,
         "manager_name": "Ben",
@@ -71,7 +71,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "manager:4",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "roster_id": 4,
         "manager_name": "Brett",
@@ -88,7 +88,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "manager:5",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "roster_id": 5,
         "manager_name": "Colby",
@@ -105,7 +105,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "manager:6",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "roster_id": 6,
         "manager_name": "Jude",
@@ -122,7 +122,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "manager:7",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "roster_id": 7,
         "manager_name": "Ryan",
@@ -139,7 +139,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "manager:8",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "roster_id": 8,
         "manager_name": "Matt",
@@ -156,7 +156,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "manager:9",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "roster_id": 9,
         "manager_name": "John",
@@ -173,7 +173,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "manager:10",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "roster_id": 10,
         "manager_name": "Drew",
@@ -190,7 +190,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "roster:1",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "wins": 0,
         "losses": 0,
@@ -408,7 +408,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "roster:2",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "wins": 0,
         "losses": 0,
@@ -626,7 +626,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "roster:3",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "wins": 0,
         "losses": 0,
@@ -877,7 +877,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "roster:4",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "wins": 0,
         "losses": 0,
@@ -1128,7 +1128,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "roster:5",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "wins": 0,
         "losses": 0,
@@ -1346,7 +1346,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "roster:6",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "wins": 0,
         "losses": 0,
@@ -1564,7 +1564,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "roster:7",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "wins": 0,
         "losses": 0,
@@ -1815,7 +1815,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "roster:8",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "wins": 0,
         "losses": 0,
@@ -2033,7 +2033,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "roster:9",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "wins": 0,
         "losses": 0,
@@ -2251,7 +2251,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "roster:10",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "wins": 0,
         "losses": 0,
@@ -2469,7 +2469,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "draft:2026:1",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 1,
         "pick_no": 1,
@@ -2490,7 +2490,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "draft:2026:2",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 1,
         "pick_no": 2,
@@ -2511,7 +2511,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "draft:2026:3",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 1,
         "pick_no": 3,
@@ -2532,7 +2532,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "draft:2026:4",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 1,
         "pick_no": 4,
@@ -2553,7 +2553,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "draft:2026:5",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 1,
         "pick_no": 5,
@@ -2574,7 +2574,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "draft:2026:6",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 1,
         "pick_no": 6,
@@ -2595,7 +2595,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "draft:2026:7",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 1,
         "pick_no": 7,
@@ -2616,7 +2616,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "draft:2026:8",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 1,
         "pick_no": 8,
@@ -2637,7 +2637,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "draft:2026:9",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 1,
         "pick_no": 9,
@@ -2658,7 +2658,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "draft:2026:10",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 1,
         "pick_no": 10,
@@ -2679,7 +2679,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "draft:2026:11",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 2,
         "pick_no": 11,
@@ -2700,7 +2700,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "draft:2026:12",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 2,
         "pick_no": 12,
@@ -2721,7 +2721,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "draft:2026:13",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 2,
         "pick_no": 13,
@@ -2742,7 +2742,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "draft:2026:14",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 2,
         "pick_no": 14,
@@ -2763,7 +2763,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "draft:2026:15",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 2,
         "pick_no": 15,
@@ -2784,7 +2784,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "draft:2026:16",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 2,
         "pick_no": 16,
@@ -2805,7 +2805,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "draft:2026:17",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 2,
         "pick_no": 17,
@@ -2826,7 +2826,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "draft:2026:18",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 2,
         "pick_no": 18,
@@ -2847,7 +2847,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "draft:2026:19",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 2,
         "pick_no": 19,
@@ -2868,7 +2868,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "draft:2026:20",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 2,
         "pick_no": 20,
@@ -2889,7 +2889,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "draft:2026:21",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 3,
         "pick_no": 21,
@@ -2910,7 +2910,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "draft:2026:22",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 3,
         "pick_no": 22,
@@ -2931,7 +2931,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "draft:2026:23",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 3,
         "pick_no": 23,
@@ -2952,7 +2952,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "draft:2026:24",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 3,
         "pick_no": 24,
@@ -2973,7 +2973,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "draft:2026:25",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 3,
         "pick_no": 25,
@@ -2994,7 +2994,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "draft:2026:26",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 3,
         "pick_no": 26,
@@ -3015,7 +3015,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "draft:2026:27",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 3,
         "pick_no": 27,
@@ -3036,7 +3036,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "draft:2026:28",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 3,
         "pick_no": 28,
@@ -3057,7 +3057,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "draft:2026:29",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 3,
         "pick_no": 29,
@@ -3078,7 +3078,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "draft:2026:30",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 3,
         "pick_no": 30,
@@ -3099,7 +3099,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "draft:2026:31",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 4,
         "pick_no": 31,
@@ -3120,7 +3120,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "draft:2026:32",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 4,
         "pick_no": 32,
@@ -3141,7 +3141,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "draft:2026:33",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 4,
         "pick_no": 33,
@@ -3162,7 +3162,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "draft:2026:34",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 4,
         "pick_no": 34,
@@ -3183,7 +3183,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "draft:2026:35",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 4,
         "pick_no": 35,
@@ -3204,7 +3204,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "draft:2026:36",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 4,
         "pick_no": 36,
@@ -3225,7 +3225,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "draft:2026:37",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 4,
         "pick_no": 37,
@@ -3246,7 +3246,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "draft:2026:38",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 4,
         "pick_no": 38,
@@ -3267,7 +3267,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "draft:2026:39",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 4,
         "pick_no": 39,
@@ -3288,7 +3288,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "draft:2026:40",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 4,
         "pick_no": 40,
@@ -3309,7 +3309,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "draft:2026:41",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 5,
         "pick_no": 41,
@@ -3330,7 +3330,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "draft:2026:42",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 5,
         "pick_no": 42,
@@ -3351,7 +3351,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "draft:2026:43",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 5,
         "pick_no": 43,
@@ -3372,7 +3372,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "draft:2026:44",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 5,
         "pick_no": 44,
@@ -3393,7 +3393,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "draft:2026:45",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 5,
         "pick_no": 45,
@@ -3414,7 +3414,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "draft:2026:46",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 5,
         "pick_no": 46,
@@ -3435,7 +3435,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "draft:2026:47",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 5,
         "pick_no": 47,
@@ -3456,7 +3456,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "draft:2026:48",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 5,
         "pick_no": 48,
@@ -3477,7 +3477,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "draft:2026:49",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 5,
         "pick_no": 49,
@@ -3498,7 +3498,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "draft:2026:50",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 5,
         "pick_no": 50,
@@ -3519,7 +3519,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "draft:2026:51",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 6,
         "pick_no": 51,
@@ -3540,7 +3540,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "draft:2026:52",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 6,
         "pick_no": 52,
@@ -3561,7 +3561,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "draft:2026:53",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 6,
         "pick_no": 53,
@@ -3582,7 +3582,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "draft:2026:54",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 6,
         "pick_no": 54,
@@ -3603,7 +3603,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "draft:2026:55",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 6,
         "pick_no": 55,
@@ -3624,7 +3624,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "draft:2026:56",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 6,
         "pick_no": 56,
@@ -3645,7 +3645,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "draft:2026:57",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 6,
         "pick_no": 57,
@@ -3666,7 +3666,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "draft:2026:58",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 6,
         "pick_no": 58,
@@ -3687,7 +3687,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "draft:2026:59",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 6,
         "pick_no": 59,
@@ -3708,7 +3708,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "draft:2026:60",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 6,
         "pick_no": 60,
@@ -3729,7 +3729,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "draft:2026:61",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 7,
         "pick_no": 61,
@@ -3750,7 +3750,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "draft:2026:62",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 7,
         "pick_no": 62,
@@ -3771,7 +3771,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "draft:2026:63",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 7,
         "pick_no": 63,
@@ -3792,7 +3792,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "draft:2026:64",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 7,
         "pick_no": 64,
@@ -3813,7 +3813,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "draft:2026:65",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 7,
         "pick_no": 65,
@@ -3834,7 +3834,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "draft:2026:66",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 7,
         "pick_no": 66,
@@ -3855,7 +3855,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "draft:2026:67",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 7,
         "pick_no": 67,
@@ -3876,7 +3876,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "draft:2026:68",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 7,
         "pick_no": 68,
@@ -3897,7 +3897,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "draft:2026:69",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 7,
         "pick_no": 69,
@@ -3918,7 +3918,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "draft:2026:70",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 7,
         "pick_no": 70,
@@ -3939,7 +3939,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "draft:2026:71",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 8,
         "pick_no": 71,
@@ -3960,7 +3960,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "draft:2026:72",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 8,
         "pick_no": 72,
@@ -3981,7 +3981,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "draft:2026:73",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 8,
         "pick_no": 73,
@@ -4002,7 +4002,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "draft:2026:74",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 8,
         "pick_no": 74,
@@ -4023,7 +4023,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "draft:2026:75",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 8,
         "pick_no": 75,
@@ -4044,7 +4044,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "draft:2026:76",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 8,
         "pick_no": 76,
@@ -4065,7 +4065,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "draft:2026:77",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 8,
         "pick_no": 77,
@@ -4086,7 +4086,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "draft:2026:78",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 8,
         "pick_no": 78,
@@ -4107,7 +4107,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "draft:2026:79",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 8,
         "pick_no": 79,
@@ -4128,7 +4128,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "draft:2026:80",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 8,
         "pick_no": 80,
@@ -4149,7 +4149,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "draft:2026:81",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 9,
         "pick_no": 81,
@@ -4170,7 +4170,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "draft:2026:82",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 9,
         "pick_no": 82,
@@ -4191,7 +4191,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "draft:2026:83",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 9,
         "pick_no": 83,
@@ -4212,7 +4212,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "draft:2026:84",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 9,
         "pick_no": 84,
@@ -4233,7 +4233,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "draft:2026:85",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 9,
         "pick_no": 85,
@@ -4254,7 +4254,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "draft:2026:86",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 9,
         "pick_no": 86,
@@ -4275,7 +4275,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "draft:2026:87",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 9,
         "pick_no": 87,
@@ -4296,7 +4296,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "draft:2026:88",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 9,
         "pick_no": 88,
@@ -4317,7 +4317,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "draft:2026:89",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 9,
         "pick_no": 89,
@@ -4338,7 +4338,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "draft:2026:90",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 9,
         "pick_no": 90,
@@ -4359,7 +4359,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "draft:2026:91",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 10,
         "pick_no": 91,
@@ -4380,7 +4380,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "draft:2026:92",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 10,
         "pick_no": 92,
@@ -4401,7 +4401,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "draft:2026:93",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 10,
         "pick_no": 93,
@@ -4422,7 +4422,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "draft:2026:94",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 10,
         "pick_no": 94,
@@ -4443,7 +4443,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "draft:2026:95",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 10,
         "pick_no": 95,
@@ -4464,7 +4464,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "draft:2026:96",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 10,
         "pick_no": 96,
@@ -4485,7 +4485,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "draft:2026:97",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 10,
         "pick_no": 97,
@@ -4506,7 +4506,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "draft:2026:98",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 10,
         "pick_no": 98,
@@ -4527,7 +4527,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "draft:2026:99",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 10,
         "pick_no": 99,
@@ -4548,7 +4548,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "draft:2026:100",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 10,
         "pick_no": 100,
@@ -4569,7 +4569,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "draft:2026:101",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 11,
         "pick_no": 101,
@@ -4590,7 +4590,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "draft:2026:102",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 11,
         "pick_no": 102,
@@ -4611,7 +4611,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "draft:2026:103",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 11,
         "pick_no": 103,
@@ -4632,7 +4632,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "draft:2026:104",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 11,
         "pick_no": 104,
@@ -4653,7 +4653,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "draft:2026:105",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 11,
         "pick_no": 105,
@@ -4674,7 +4674,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "draft:2026:106",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 11,
         "pick_no": 106,
@@ -4695,7 +4695,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "draft:2026:107",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 11,
         "pick_no": 107,
@@ -4716,7 +4716,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "draft:2026:108",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 11,
         "pick_no": 108,
@@ -4737,7 +4737,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "draft:2026:109",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 11,
         "pick_no": 109,
@@ -4758,7 +4758,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "draft:2026:110",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 11,
         "pick_no": 110,
@@ -4779,7 +4779,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "draft:2026:111",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 12,
         "pick_no": 111,
@@ -4800,7 +4800,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "draft:2026:112",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 12,
         "pick_no": 112,
@@ -4821,7 +4821,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "draft:2026:113",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 12,
         "pick_no": 113,
@@ -4842,7 +4842,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "draft:2026:114",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 12,
         "pick_no": 114,
@@ -4863,7 +4863,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "draft:2026:115",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 12,
         "pick_no": 115,
@@ -4884,7 +4884,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "draft:2026:116",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 12,
         "pick_no": 116,
@@ -4905,7 +4905,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "draft:2026:117",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 12,
         "pick_no": 117,
@@ -4926,7 +4926,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "draft:2026:118",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 12,
         "pick_no": 118,
@@ -4947,7 +4947,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "draft:2026:119",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 12,
         "pick_no": 119,
@@ -4968,7 +4968,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "draft:2026:120",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 12,
         "pick_no": 120,
@@ -4989,7 +4989,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "draft:2026:121",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 13,
         "pick_no": 121,
@@ -5010,7 +5010,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "draft:2026:122",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 13,
         "pick_no": 122,
@@ -5031,7 +5031,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "draft:2026:123",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 13,
         "pick_no": 123,
@@ -5052,7 +5052,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "draft:2026:124",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 13,
         "pick_no": 124,
@@ -5073,7 +5073,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "draft:2026:125",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 13,
         "pick_no": 125,
@@ -5094,7 +5094,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "draft:2026:126",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 13,
         "pick_no": 126,
@@ -5115,7 +5115,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "draft:2026:127",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 13,
         "pick_no": 127,
@@ -5136,7 +5136,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "draft:2026:128",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 13,
         "pick_no": 128,
@@ -5157,7 +5157,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "draft:2026:129",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 13,
         "pick_no": 129,
@@ -5178,7 +5178,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "draft:2026:130",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 13,
         "pick_no": 130,
@@ -5199,7 +5199,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "draft:2026:131",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 14,
         "pick_no": 131,
@@ -5220,7 +5220,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "draft:2026:132",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 14,
         "pick_no": 132,
@@ -5241,7 +5241,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "draft:2026:133",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 14,
         "pick_no": 133,
@@ -5262,7 +5262,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "draft:2026:134",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 14,
         "pick_no": 134,
@@ -5283,7 +5283,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "draft:2026:135",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 14,
         "pick_no": 135,
@@ -5304,7 +5304,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "draft:2026:136",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 14,
         "pick_no": 136,
@@ -5325,7 +5325,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "draft:2026:137",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 14,
         "pick_no": 137,
@@ -5346,7 +5346,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "draft:2026:138",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 14,
         "pick_no": 138,
@@ -5367,7 +5367,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "draft:2026:139",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 14,
         "pick_no": 139,
@@ -5388,7 +5388,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "draft:2026:140",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 14,
         "pick_no": 140,
@@ -5409,7 +5409,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "draft:2026:141",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 15,
         "pick_no": 141,
@@ -5430,7 +5430,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "draft:2026:142",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 15,
         "pick_no": 142,
@@ -5451,7 +5451,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "draft:2026:143",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 15,
         "pick_no": 143,
@@ -5472,7 +5472,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "draft:2026:144",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 15,
         "pick_no": 144,
@@ -5493,7 +5493,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "draft:2026:145",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 15,
         "pick_no": 145,
@@ -5514,7 +5514,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "draft:2026:146",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 15,
         "pick_no": 146,
@@ -5535,7 +5535,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "draft:2026:147",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 15,
         "pick_no": 147,
@@ -5556,7 +5556,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "draft:2026:148",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 15,
         "pick_no": 148,
@@ -5577,7 +5577,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "draft:2026:149",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 15,
         "pick_no": 149,
@@ -5598,7 +5598,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "draft:2026:150",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "round": 15,
         "pick_no": 150,
@@ -5619,7 +5619,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "matchup:2026:1:1",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 8,
@@ -5763,7 +5763,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "matchup:2026:1:2",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 9,
@@ -5907,7 +5907,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "matchup:2026:1:3",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 6,
@@ -6067,7 +6067,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "matchup:2026:1:4",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 7,
@@ -6227,7 +6227,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "matchup:2026:1:5",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 10,
@@ -6371,7 +6371,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "matchup:2026:1:6",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 3,
@@ -6515,7 +6515,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "matchup:2026:1:7",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 4,
@@ -6675,7 +6675,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "matchup:2026:1:8",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 1,
@@ -6819,7 +6819,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "matchup:2026:1:9",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 2,
@@ -6963,7 +6963,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "matchup:2026:1:10",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 5,
@@ -7107,7 +7107,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "matchup:2026:2:1",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 10,
@@ -7251,7 +7251,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "matchup:2026:2:2",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 7,
@@ -7395,7 +7395,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "matchup:2026:2:3",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 5,
@@ -7555,7 +7555,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "matchup:2026:2:4",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 6,
@@ -7715,7 +7715,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "matchup:2026:2:5",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 3,
@@ -7859,7 +7859,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "matchup:2026:2:6",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 4,
@@ -8003,7 +8003,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "matchup:2026:2:7",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 2,
@@ -8163,7 +8163,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "matchup:2026:2:8",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 9,
@@ -8307,7 +8307,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "matchup:2026:2:9",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 8,
@@ -8451,7 +8451,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "matchup:2026:2:10",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 1,
@@ -8595,7 +8595,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "matchup:2026:3:1",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 5,
@@ -8739,7 +8739,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "matchup:2026:3:2",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 6,
@@ -8883,7 +8883,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "matchup:2026:3:3",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 4,
@@ -9043,7 +9043,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "matchup:2026:3:4",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 3,
@@ -9203,7 +9203,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "matchup:2026:3:5",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 1,
@@ -9347,7 +9347,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "matchup:2026:3:6",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 2,
@@ -9491,7 +9491,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "matchup:2026:3:7",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 8,
@@ -9651,7 +9651,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "matchup:2026:3:8",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 7,
@@ -9795,7 +9795,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "matchup:2026:3:9",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 10,
@@ -9939,7 +9939,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "matchup:2026:3:10",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 9,
@@ -10083,7 +10083,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "matchup:2026:4:1",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 3,
@@ -10227,7 +10227,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "matchup:2026:4:2",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 4,
@@ -10371,7 +10371,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "matchup:2026:4:3",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 1,
@@ -10531,7 +10531,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "matchup:2026:4:4",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 2,
@@ -10691,7 +10691,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "matchup:2026:4:5",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 9,
@@ -10835,7 +10835,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "matchup:2026:4:6",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 8,
@@ -10979,7 +10979,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "matchup:2026:4:7",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 10,
@@ -11139,7 +11139,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "matchup:2026:4:8",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 6,
@@ -11283,7 +11283,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "matchup:2026:4:9",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 5,
@@ -11427,7 +11427,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "matchup:2026:4:10",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 7,
@@ -11571,7 +11571,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "matchup:2026:5:1",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 9,
@@ -11715,7 +11715,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "matchup:2026:5:2",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 3,
@@ -11859,7 +11859,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "matchup:2026:5:3",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 2,
@@ -12019,7 +12019,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "matchup:2026:5:4",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 8,
@@ -12179,7 +12179,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "matchup:2026:5:5",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 7,
@@ -12323,7 +12323,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "matchup:2026:5:6",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 10,
@@ -12467,7 +12467,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "matchup:2026:5:7",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 5,
@@ -12627,7 +12627,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "matchup:2026:5:8",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 4,
@@ -12771,7 +12771,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "matchup:2026:5:9",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 1,
@@ -12915,7 +12915,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "matchup:2026:5:10",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 6,
@@ -13059,7 +13059,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "matchup:2026:6:1",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 7,
@@ -13203,7 +13203,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "matchup:2026:6:2",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 8,
@@ -13347,7 +13347,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "matchup:2026:6:3",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 9,
@@ -13507,7 +13507,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "matchup:2026:6:4",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 10,
@@ -13667,7 +13667,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "matchup:2026:6:5",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 6,
@@ -13811,7 +13811,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "matchup:2026:6:6",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 5,
@@ -13955,7 +13955,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "matchup:2026:6:7",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 1,
@@ -14115,7 +14115,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "matchup:2026:6:8",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 2,
@@ -14259,7 +14259,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "matchup:2026:6:9",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 3,
@@ -14403,7 +14403,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "matchup:2026:6:10",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 4,
@@ -14547,7 +14547,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "matchup:2026:7:1",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 6,
@@ -14691,7 +14691,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "matchup:2026:7:2",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 10,
@@ -14835,7 +14835,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "matchup:2026:7:3",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 8,
@@ -14995,7 +14995,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "matchup:2026:7:4",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 5,
@@ -15155,7 +15155,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "matchup:2026:7:5",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 4,
@@ -15299,7 +15299,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "matchup:2026:7:6",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 1,
@@ -15443,7 +15443,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "matchup:2026:7:7",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 9,
@@ -15603,7 +15603,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "matchup:2026:7:8",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 3,
@@ -15747,7 +15747,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "matchup:2026:7:9",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 7,
@@ -15891,7 +15891,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "matchup:2026:7:10",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 2,
@@ -16035,7 +16035,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "matchup:2026:8:1",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 4,
@@ -16179,7 +16179,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "matchup:2026:8:2",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 5,
@@ -16323,7 +16323,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "matchup:2026:8:3",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 7,
@@ -16483,7 +16483,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "matchup:2026:8:4",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 1,
@@ -16643,7 +16643,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "matchup:2026:8:5",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 2,
@@ -16787,7 +16787,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "matchup:2026:8:6",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 9,
@@ -16931,7 +16931,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "matchup:2026:8:7",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 3,
@@ -17091,7 +17091,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "matchup:2026:8:8",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 10,
@@ -17235,7 +17235,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "matchup:2026:8:9",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 6,
@@ -17379,7 +17379,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "matchup:2026:8:10",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 8,
@@ -17523,7 +17523,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "matchup:2026:9:1",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 2,
@@ -17667,7 +17667,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "matchup:2026:9:2",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 1,
@@ -17811,7 +17811,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "matchup:2026:9:3",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 10,
@@ -17971,7 +17971,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "matchup:2026:9:4",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 9,
@@ -18131,7 +18131,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "matchup:2026:9:5",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 8,
@@ -18275,7 +18275,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "matchup:2026:9:6",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 7,
@@ -18419,7 +18419,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "matchup:2026:9:7",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 6,
@@ -18579,7 +18579,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "matchup:2026:9:8",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 5,
@@ -18723,7 +18723,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "matchup:2026:9:9",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 4,
@@ -18867,7 +18867,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "matchup:2026:9:10",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 3,
@@ -19011,7 +19011,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "matchup:2026:10:1",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 8,
@@ -19155,7 +19155,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "matchup:2026:10:2",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 9,
@@ -19299,7 +19299,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "matchup:2026:10:3",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 6,
@@ -19459,7 +19459,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "matchup:2026:10:4",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 7,
@@ -19619,7 +19619,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "matchup:2026:10:5",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 10,
@@ -19763,7 +19763,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "matchup:2026:10:6",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 3,
@@ -19907,7 +19907,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "matchup:2026:10:7",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 4,
@@ -20067,7 +20067,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "matchup:2026:10:8",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 1,
@@ -20211,7 +20211,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "matchup:2026:10:9",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 2,
@@ -20355,7 +20355,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "matchup:2026:10:10",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 5,
@@ -20499,7 +20499,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "matchup:2026:11:1",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 10,
@@ -20643,7 +20643,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "matchup:2026:11:2",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 7,
@@ -20787,7 +20787,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "matchup:2026:11:3",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 5,
@@ -20947,7 +20947,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "matchup:2026:11:4",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 6,
@@ -21107,7 +21107,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "matchup:2026:11:5",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 3,
@@ -21251,7 +21251,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "matchup:2026:11:6",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 4,
@@ -21395,7 +21395,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "matchup:2026:11:7",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 2,
@@ -21555,7 +21555,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "matchup:2026:11:8",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 9,
@@ -21699,7 +21699,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "matchup:2026:11:9",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 8,
@@ -21843,7 +21843,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "matchup:2026:11:10",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 1,
@@ -21987,7 +21987,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "matchup:2026:12:1",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 5,
@@ -22131,7 +22131,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "matchup:2026:12:2",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 6,
@@ -22275,7 +22275,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "matchup:2026:12:3",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 4,
@@ -22435,7 +22435,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "matchup:2026:12:4",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 3,
@@ -22595,7 +22595,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "matchup:2026:12:5",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 1,
@@ -22739,7 +22739,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "matchup:2026:12:6",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 2,
@@ -22883,7 +22883,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "matchup:2026:12:7",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 8,
@@ -23043,7 +23043,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "matchup:2026:12:8",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 7,
@@ -23187,7 +23187,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "matchup:2026:12:9",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 10,
@@ -23331,7 +23331,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "matchup:2026:12:10",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 9,
@@ -23475,7 +23475,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "matchup:2026:13:1",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 3,
@@ -23619,7 +23619,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "matchup:2026:13:2",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 4,
@@ -23763,7 +23763,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "matchup:2026:13:3",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 1,
@@ -23923,7 +23923,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "matchup:2026:13:4",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 2,
@@ -24083,7 +24083,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "matchup:2026:13:5",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 9,
@@ -24227,7 +24227,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "matchup:2026:13:6",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 8,
@@ -24371,7 +24371,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "matchup:2026:13:7",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 10,
@@ -24531,7 +24531,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "matchup:2026:13:8",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 6,
@@ -24675,7 +24675,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "matchup:2026:13:9",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 5,
@@ -24819,7 +24819,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "matchup:2026:13:10",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 7,
@@ -24963,7 +24963,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "matchup:2026:14:1",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 9,
@@ -25107,7 +25107,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "matchup:2026:14:2",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 3,
@@ -25251,7 +25251,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "matchup:2026:14:3",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 2,
@@ -25411,7 +25411,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "matchup:2026:14:4",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 8,
@@ -25571,7 +25571,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "matchup:2026:14:5",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 7,
@@ -25715,7 +25715,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "matchup:2026:14:6",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 10,
@@ -25859,7 +25859,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "matchup:2026:14:7",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 5,
@@ -26019,7 +26019,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "matchup:2026:14:8",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 4,
@@ -26163,7 +26163,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "matchup:2026:14:9",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 1,
@@ -26307,7 +26307,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "matchup:2026:14:10",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 6,
@@ -26451,7 +26451,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "matchup:2026:15:1",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 7,
@@ -26595,7 +26595,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "matchup:2026:15:2",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 8,
@@ -26739,7 +26739,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "matchup:2026:15:3",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 9,
@@ -26899,7 +26899,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "matchup:2026:15:4",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 10,
@@ -27059,7 +27059,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "matchup:2026:15:5",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 6,
@@ -27203,7 +27203,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "matchup:2026:15:6",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 5,
@@ -27347,7 +27347,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "matchup:2026:15:7",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 1,
@@ -27507,7 +27507,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "matchup:2026:15:8",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 2,
@@ -27651,7 +27651,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "matchup:2026:15:9",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 3,
@@ -27795,7 +27795,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "matchup:2026:15:10",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 4,
@@ -27939,7 +27939,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "matchup:2026:16:1",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 6,
@@ -28083,7 +28083,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "matchup:2026:16:2",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 10,
@@ -28227,7 +28227,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "matchup:2026:16:3",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 8,
@@ -28387,7 +28387,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "matchup:2026:16:4",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 5,
@@ -28547,7 +28547,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "matchup:2026:16:5",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 4,
@@ -28691,7 +28691,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "matchup:2026:16:6",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 1,
@@ -28835,7 +28835,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "matchup:2026:16:7",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 9,
@@ -28995,7 +28995,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "matchup:2026:16:8",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 3,
@@ -29139,7 +29139,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "matchup:2026:16:9",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 7,
@@ -29283,7 +29283,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "matchup:2026:16:10",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 2,
@@ -29427,7 +29427,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "matchup:2026:17:1",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 4,
@@ -29571,7 +29571,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "matchup:2026:17:2",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 5,
@@ -29715,7 +29715,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "matchup:2026:17:3",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 7,
@@ -29875,7 +29875,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "matchup:2026:17:4",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 1,
@@ -30035,7 +30035,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "matchup:2026:17:5",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 2,
@@ -30179,7 +30179,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "matchup:2026:17:6",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 9,
@@ -30323,7 +30323,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "matchup:2026:17:7",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 3,
@@ -30483,7 +30483,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "matchup:2026:17:8",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 10,
@@ -30627,7 +30627,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "matchup:2026:17:9",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 6,
@@ -30771,7 +30771,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "matchup:2026:17:10",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 8,
@@ -30915,7 +30915,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "matchup:2026:18:1",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 2,
@@ -31059,7 +31059,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "matchup:2026:18:2",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 5,
         "opponent_roster_id": 1,
@@ -31203,7 +31203,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "matchup:2026:18:3",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 10,
@@ -31363,7 +31363,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "matchup:2026:18:4",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 9,
@@ -31523,7 +31523,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "matchup:2026:18:5",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 8,
@@ -31667,7 +31667,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "matchup:2026:18:6",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 7,
@@ -31811,7 +31811,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "matchup:2026:18:7",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 2,
         "opponent_roster_id": 6,
@@ -31971,7 +31971,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "matchup:2026:18:8",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 3,
         "opponent_roster_id": 5,
@@ -32115,7 +32115,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "matchup:2026:18:9",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 4,
         "opponent_roster_id": 4,
@@ -32259,7 +32259,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "matchup:2026:18:10",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "matchup_id": 1,
         "opponent_roster_id": 3,
@@ -32403,7 +32403,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "transaction:1403859187233996800",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "transaction_id": "1403859187233996800",
         "type": "free_agent",
@@ -32448,7 +32448,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "transaction:1403834094592200704",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "transaction_id": "1403834094592200704",
         "type": "free_agent",
@@ -32493,7 +32493,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "transaction:1403816325414952960",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "transaction_id": "1403816325414952960",
         "type": "free_agent",
@@ -32528,7 +32528,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "transaction:1403813497489367040",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "transaction_id": "1403813497489367040",
         "type": "free_agent",
@@ -32563,7 +32563,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "transaction:1403429525307600896",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "transaction_id": "1403429525307600896",
         "type": "free_agent",
@@ -32598,7 +32598,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "transaction:1403392575032819712",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "transaction_id": "1403392575032819712",
         "type": "free_agent",
@@ -32643,7 +32643,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "transaction:1403374422340964352",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "transaction_id": "1403374422340964352",
         "type": "free_agent",
@@ -32688,7 +32688,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "transaction:1403214072341618688",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "transaction_id": "1403214072341618688",
         "type": "waiver",
@@ -32733,7 +32733,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "transaction:1400604484454875136",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "transaction_id": "1400604484454875136",
         "type": "waiver",
@@ -32778,7 +32778,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "transaction:1400199489335066624",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "transaction_id": "1400199489335066624",
         "type": "trade",
@@ -32842,7 +32842,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "transaction:1399919265989070848",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "transaction_id": "1399919265989070848",
         "type": "free_agent",
@@ -32877,7 +32877,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "transaction:1399919152386342912",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "transaction_id": "1399919152386342912",
         "type": "free_agent",
@@ -32922,7 +32922,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "transaction:1399918937264697344",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "transaction_id": "1399918937264697344",
         "type": "free_agent",
@@ -32957,7 +32957,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "transaction:1399422474617151488",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "transaction_id": "1399422474617151488",
         "type": "trade",
@@ -33021,7 +33021,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "transaction:1398389702087716864",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "transaction_id": "1398389702087716864",
         "type": "free_agent",
@@ -33056,7 +33056,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "transaction:1394791691843559424",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "transaction_id": "1394791691843559424",
         "type": "free_agent",
@@ -33091,7 +33091,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "transaction:1391484850002731008",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "transaction_id": "1391484850002731008",
         "type": "trade",
@@ -33150,7 +33150,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "transaction:1388248655756017665",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "transaction_id": "1388248655756017665",
         "type": "free_agent",
@@ -33185,7 +33185,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "transaction:1388248435387277312",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "transaction_id": "1388248435387277312",
         "type": "free_agent",
@@ -33220,7 +33220,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "transaction:1377159183664697344",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "transaction_id": "1377159183664697344",
         "type": "free_agent",
@@ -33255,7 +33255,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "analytic:2026:1:1:points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points",
         "value": 0,
@@ -33271,7 +33271,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "analytic:2026:1:1:opponent_points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "opponent_points",
         "value": 6,
@@ -33287,7 +33287,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "analytic:2026:1:1:margin",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "margin",
         "value": -6,
@@ -33303,7 +33303,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "analytic:2026:1:1:weekly_points_rank",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_points_rank",
         "value": 7,
@@ -33319,7 +33319,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "analytic:2026:1:1:all_play_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_wins",
         "value": 0,
@@ -33335,7 +33335,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "analytic:2026:1:1:all_play_losses",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_losses",
         "value": 6,
@@ -33351,7 +33351,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "analytic:2026:1:1:all_play_ties",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_ties",
         "value": 3,
@@ -33367,7 +33367,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "analytic:2026:1:1:expected_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "expected_win_equivalent",
         "value": 0.16666666666666666,
@@ -33383,7 +33383,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "analytic:2026:1:1:actual_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "actual_win_equivalent",
         "value": 0,
@@ -33399,7 +33399,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "analytic:2026:1:1:schedule_luck",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "schedule_luck",
         "value": -0.16666666666666666,
@@ -33415,7 +33415,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "analytic:2026:1:2:points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points",
         "value": 11.82,
@@ -33431,7 +33431,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "analytic:2026:1:2:opponent_points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "opponent_points",
         "value": 5.6,
@@ -33447,7 +33447,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "analytic:2026:1:2:margin",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "margin",
         "value": 6.220000000000001,
@@ -33463,7 +33463,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "analytic:2026:1:2:weekly_points_rank",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_points_rank",
         "value": 3,
@@ -33479,7 +33479,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "analytic:2026:1:2:all_play_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_wins",
         "value": 7,
@@ -33495,7 +33495,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "analytic:2026:1:2:all_play_losses",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_losses",
         "value": 2,
@@ -33511,7 +33511,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "analytic:2026:1:2:all_play_ties",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_ties",
         "value": 0,
@@ -33527,7 +33527,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "analytic:2026:1:2:expected_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "expected_win_equivalent",
         "value": 0.7777777777777778,
@@ -33543,7 +33543,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "analytic:2026:1:2:actual_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "actual_win_equivalent",
         "value": 1,
@@ -33559,7 +33559,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "analytic:2026:1:2:schedule_luck",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "schedule_luck",
         "value": 0.2222222222222222,
@@ -33575,7 +33575,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "analytic:2026:1:3:points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points",
         "value": 0,
@@ -33591,7 +33591,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "analytic:2026:1:3:opponent_points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "opponent_points",
         "value": 39.2,
@@ -33607,7 +33607,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "analytic:2026:1:3:margin",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "margin",
         "value": -39.2,
@@ -33623,7 +33623,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "analytic:2026:1:3:weekly_points_rank",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_points_rank",
         "value": 7,
@@ -33639,7 +33639,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "analytic:2026:1:3:all_play_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_wins",
         "value": 0,
@@ -33655,7 +33655,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "analytic:2026:1:3:all_play_losses",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_losses",
         "value": 6,
@@ -33671,7 +33671,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "analytic:2026:1:3:all_play_ties",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_ties",
         "value": 3,
@@ -33687,7 +33687,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "analytic:2026:1:3:expected_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "expected_win_equivalent",
         "value": 0.16666666666666666,
@@ -33703,7 +33703,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "analytic:2026:1:3:actual_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "actual_win_equivalent",
         "value": 0,
@@ -33719,7 +33719,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "analytic:2026:1:3:schedule_luck",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "schedule_luck",
         "value": -0.16666666666666666,
@@ -33735,7 +33735,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "analytic:2026:1:4:points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points",
         "value": 6,
@@ -33751,7 +33751,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "analytic:2026:1:4:opponent_points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "opponent_points",
         "value": 0,
@@ -33767,7 +33767,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "analytic:2026:1:4:margin",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "margin",
         "value": 6,
@@ -33783,7 +33783,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "analytic:2026:1:4:weekly_points_rank",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_points_rank",
         "value": 4,
@@ -33799,7 +33799,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "analytic:2026:1:4:all_play_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_wins",
         "value": 5,
@@ -33815,7 +33815,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "analytic:2026:1:4:all_play_losses",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_losses",
         "value": 3,
@@ -33831,7 +33831,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "analytic:2026:1:4:all_play_ties",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_ties",
         "value": 1,
@@ -33847,7 +33847,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "analytic:2026:1:4:expected_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "expected_win_equivalent",
         "value": 0.6111111111111112,
@@ -33863,7 +33863,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "analytic:2026:1:4:actual_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "actual_win_equivalent",
         "value": 1,
@@ -33879,7 +33879,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "analytic:2026:1:4:schedule_luck",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "schedule_luck",
         "value": 0.38888888888888884,
@@ -33895,7 +33895,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "analytic:2026:1:5:points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points",
         "value": 21.5,
@@ -33911,7 +33911,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "analytic:2026:1:5:opponent_points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "opponent_points",
         "value": 0,
@@ -33927,7 +33927,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "analytic:2026:1:5:margin",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "margin",
         "value": 21.5,
@@ -33943,7 +33943,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "analytic:2026:1:5:weekly_points_rank",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_points_rank",
         "value": 2,
@@ -33959,7 +33959,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "analytic:2026:1:5:all_play_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_wins",
         "value": 8,
@@ -33975,7 +33975,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "analytic:2026:1:5:all_play_losses",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_losses",
         "value": 1,
@@ -33991,7 +33991,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "analytic:2026:1:5:all_play_ties",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_ties",
         "value": 0,
@@ -34007,7 +34007,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "analytic:2026:1:5:expected_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "expected_win_equivalent",
         "value": 0.8888888888888888,
@@ -34023,7 +34023,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "analytic:2026:1:5:actual_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "actual_win_equivalent",
         "value": 1,
@@ -34039,7 +34039,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "analytic:2026:1:5:schedule_luck",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "schedule_luck",
         "value": 0.11111111111111116,
@@ -34055,7 +34055,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "analytic:2026:1:6:points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points",
         "value": 39.2,
@@ -34071,7 +34071,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "analytic:2026:1:6:opponent_points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "opponent_points",
         "value": 0,
@@ -34087,7 +34087,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "analytic:2026:1:6:margin",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "margin",
         "value": 39.2,
@@ -34103,7 +34103,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "analytic:2026:1:6:weekly_points_rank",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_points_rank",
         "value": 1,
@@ -34119,7 +34119,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "analytic:2026:1:6:all_play_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_wins",
         "value": 9,
@@ -34135,7 +34135,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "analytic:2026:1:6:all_play_losses",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_losses",
         "value": 0,
@@ -34151,7 +34151,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "analytic:2026:1:6:all_play_ties",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_ties",
         "value": 0,
@@ -34167,7 +34167,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "analytic:2026:1:6:expected_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "expected_win_equivalent",
         "value": 1,
@@ -34183,7 +34183,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "analytic:2026:1:6:actual_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "actual_win_equivalent",
         "value": 1,
@@ -34199,7 +34199,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "analytic:2026:1:6:schedule_luck",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "schedule_luck",
         "value": 0,
@@ -34215,7 +34215,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "analytic:2026:1:7:points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points",
         "value": 0,
@@ -34231,7 +34231,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "analytic:2026:1:7:opponent_points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "opponent_points",
         "value": 6,
@@ -34247,7 +34247,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "analytic:2026:1:7:margin",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "margin",
         "value": -6,
@@ -34263,7 +34263,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "analytic:2026:1:7:weekly_points_rank",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_points_rank",
         "value": 7,
@@ -34279,7 +34279,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "analytic:2026:1:7:all_play_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_wins",
         "value": 0,
@@ -34295,7 +34295,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "analytic:2026:1:7:all_play_losses",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_losses",
         "value": 6,
@@ -34311,7 +34311,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "analytic:2026:1:7:all_play_ties",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_ties",
         "value": 3,
@@ -34327,7 +34327,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "analytic:2026:1:7:expected_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "expected_win_equivalent",
         "value": 0.16666666666666666,
@@ -34343,7 +34343,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "analytic:2026:1:7:actual_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "actual_win_equivalent",
         "value": 0,
@@ -34359,7 +34359,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "analytic:2026:1:7:schedule_luck",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "schedule_luck",
         "value": -0.16666666666666666,
@@ -34375,7 +34375,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "analytic:2026:1:8:points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points",
         "value": 6,
@@ -34391,7 +34391,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "analytic:2026:1:8:opponent_points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "opponent_points",
         "value": 0,
@@ -34407,7 +34407,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "analytic:2026:1:8:margin",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "margin",
         "value": 6,
@@ -34423,7 +34423,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "analytic:2026:1:8:weekly_points_rank",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_points_rank",
         "value": 4,
@@ -34439,7 +34439,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "analytic:2026:1:8:all_play_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_wins",
         "value": 5,
@@ -34455,7 +34455,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "analytic:2026:1:8:all_play_losses",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_losses",
         "value": 3,
@@ -34471,7 +34471,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "analytic:2026:1:8:all_play_ties",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_ties",
         "value": 1,
@@ -34487,7 +34487,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "analytic:2026:1:8:expected_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "expected_win_equivalent",
         "value": 0.6111111111111112,
@@ -34503,7 +34503,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "analytic:2026:1:8:actual_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "actual_win_equivalent",
         "value": 1,
@@ -34519,7 +34519,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "analytic:2026:1:8:schedule_luck",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "schedule_luck",
         "value": 0.38888888888888884,
@@ -34535,7 +34535,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "analytic:2026:1:9:points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points",
         "value": 5.6,
@@ -34551,7 +34551,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "analytic:2026:1:9:opponent_points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "opponent_points",
         "value": 11.82,
@@ -34567,7 +34567,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "analytic:2026:1:9:margin",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "margin",
         "value": -6.220000000000001,
@@ -34583,7 +34583,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "analytic:2026:1:9:weekly_points_rank",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_points_rank",
         "value": 6,
@@ -34599,7 +34599,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "analytic:2026:1:9:all_play_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_wins",
         "value": 4,
@@ -34615,7 +34615,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "analytic:2026:1:9:all_play_losses",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_losses",
         "value": 5,
@@ -34631,7 +34631,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "analytic:2026:1:9:all_play_ties",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_ties",
         "value": 0,
@@ -34647,7 +34647,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "analytic:2026:1:9:expected_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "expected_win_equivalent",
         "value": 0.4444444444444444,
@@ -34663,7 +34663,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "analytic:2026:1:9:actual_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "actual_win_equivalent",
         "value": 0,
@@ -34679,7 +34679,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "analytic:2026:1:9:schedule_luck",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "schedule_luck",
         "value": -0.4444444444444444,
@@ -34695,7 +34695,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "analytic:2026:1:10:points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points",
         "value": 0,
@@ -34711,7 +34711,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "analytic:2026:1:10:opponent_points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "opponent_points",
         "value": 21.5,
@@ -34727,7 +34727,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "analytic:2026:1:10:margin",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "margin",
         "value": -21.5,
@@ -34743,7 +34743,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "analytic:2026:1:10:weekly_points_rank",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_points_rank",
         "value": 7,
@@ -34759,7 +34759,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "analytic:2026:1:10:all_play_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_wins",
         "value": 0,
@@ -34775,7 +34775,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "analytic:2026:1:10:all_play_losses",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_losses",
         "value": 6,
@@ -34791,7 +34791,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "analytic:2026:1:10:all_play_ties",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_ties",
         "value": 3,
@@ -34807,7 +34807,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "analytic:2026:1:10:expected_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "expected_win_equivalent",
         "value": 0.16666666666666666,
@@ -34823,7 +34823,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "analytic:2026:1:10:actual_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "actual_win_equivalent",
         "value": 0,
@@ -34839,7 +34839,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "analytic:2026:1:10:schedule_luck",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "schedule_luck",
         "value": -0.16666666666666666,
@@ -34855,7 +34855,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "analytic:2026:SEASON:1:games_played",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "games_played",
         "value": 1,
@@ -34871,7 +34871,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "analytic:2026:SEASON:1:points_for",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points_for",
         "value": 0,
@@ -34887,7 +34887,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "analytic:2026:SEASON:1:points_against",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points_against",
         "value": 6,
@@ -34903,7 +34903,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "analytic:2026:SEASON:1:average_points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "average_points",
         "value": 0,
@@ -34919,7 +34919,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "analytic:2026:SEASON:1:all_play_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_wins",
         "value": 0,
@@ -34935,7 +34935,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "analytic:2026:SEASON:1:all_play_losses",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_losses",
         "value": 6,
@@ -34951,7 +34951,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "analytic:2026:SEASON:1:all_play_ties",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_ties",
         "value": 3,
@@ -34967,7 +34967,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "analytic:2026:SEASON:1:expected_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "expected_wins",
         "value": 0.16666666666666666,
@@ -34983,7 +34983,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "analytic:2026:SEASON:1:actual_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "actual_win_equivalent",
         "value": 0,
@@ -34999,7 +34999,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "analytic:2026:SEASON:1:schedule_luck",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "schedule_luck",
         "value": -0.16666666666666666,
@@ -35015,7 +35015,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "analytic:2026:SEASON:1:weekly_high_scores",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_high_scores",
         "value": 0,
@@ -35031,7 +35031,7 @@
       "banter_name": "OG Leski",
       "team_name": "Leskual Healing",
       "record_key": "analytic:2026:SEASON:1:weekly_low_scores",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_low_scores",
         "value": 0,
@@ -35047,7 +35047,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "analytic:2026:SEASON:2:games_played",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "games_played",
         "value": 1,
@@ -35063,7 +35063,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "analytic:2026:SEASON:2:points_for",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points_for",
         "value": 11.82,
@@ -35079,7 +35079,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "analytic:2026:SEASON:2:points_against",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points_against",
         "value": 5.6,
@@ -35095,7 +35095,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "analytic:2026:SEASON:2:average_points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "average_points",
         "value": 11.82,
@@ -35111,7 +35111,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "analytic:2026:SEASON:2:all_play_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_wins",
         "value": 7,
@@ -35127,7 +35127,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "analytic:2026:SEASON:2:all_play_losses",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_losses",
         "value": 2,
@@ -35143,7 +35143,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "analytic:2026:SEASON:2:all_play_ties",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_ties",
         "value": 0,
@@ -35159,7 +35159,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "analytic:2026:SEASON:2:expected_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "expected_wins",
         "value": 0.7777777777777778,
@@ -35175,7 +35175,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "analytic:2026:SEASON:2:actual_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "actual_win_equivalent",
         "value": 1,
@@ -35191,7 +35191,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "analytic:2026:SEASON:2:schedule_luck",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "schedule_luck",
         "value": 0.2222222222222222,
@@ -35207,7 +35207,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "analytic:2026:SEASON:2:weekly_high_scores",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_high_scores",
         "value": 0,
@@ -35223,7 +35223,7 @@
       "banter_name": "Glizzy Guzzler",
       "team_name": "[insertfootballpunhere]",
       "record_key": "analytic:2026:SEASON:2:weekly_low_scores",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_low_scores",
         "value": 0,
@@ -35239,7 +35239,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "analytic:2026:SEASON:3:games_played",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "games_played",
         "value": 1,
@@ -35255,7 +35255,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "analytic:2026:SEASON:3:points_for",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points_for",
         "value": 0,
@@ -35271,7 +35271,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "analytic:2026:SEASON:3:points_against",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points_against",
         "value": 39.2,
@@ -35287,7 +35287,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "analytic:2026:SEASON:3:average_points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "average_points",
         "value": 0,
@@ -35303,7 +35303,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "analytic:2026:SEASON:3:all_play_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_wins",
         "value": 0,
@@ -35319,7 +35319,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "analytic:2026:SEASON:3:all_play_losses",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_losses",
         "value": 6,
@@ -35335,7 +35335,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "analytic:2026:SEASON:3:all_play_ties",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_ties",
         "value": 3,
@@ -35351,7 +35351,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "analytic:2026:SEASON:3:expected_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "expected_wins",
         "value": 0.16666666666666666,
@@ -35367,7 +35367,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "analytic:2026:SEASON:3:actual_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "actual_win_equivalent",
         "value": 0,
@@ -35383,7 +35383,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "analytic:2026:SEASON:3:schedule_luck",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "schedule_luck",
         "value": -0.16666666666666666,
@@ -35399,7 +35399,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "analytic:2026:SEASON:3:weekly_high_scores",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_high_scores",
         "value": 0,
@@ -35415,7 +35415,7 @@
       "banter_name": "Beth's Cousin",
       "team_name": "NabersThinkI’mSellinDope",
       "record_key": "analytic:2026:SEASON:3:weekly_low_scores",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_low_scores",
         "value": 0,
@@ -35431,7 +35431,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "analytic:2026:SEASON:4:games_played",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "games_played",
         "value": 1,
@@ -35447,7 +35447,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "analytic:2026:SEASON:4:points_for",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points_for",
         "value": 6,
@@ -35463,7 +35463,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "analytic:2026:SEASON:4:points_against",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points_against",
         "value": 0,
@@ -35479,7 +35479,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "analytic:2026:SEASON:4:average_points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "average_points",
         "value": 6,
@@ -35495,7 +35495,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "analytic:2026:SEASON:4:all_play_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_wins",
         "value": 5,
@@ -35511,7 +35511,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "analytic:2026:SEASON:4:all_play_losses",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_losses",
         "value": 3,
@@ -35527,7 +35527,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "analytic:2026:SEASON:4:all_play_ties",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_ties",
         "value": 1,
@@ -35543,7 +35543,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "analytic:2026:SEASON:4:expected_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "expected_wins",
         "value": 0.6111111111111112,
@@ -35559,7 +35559,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "analytic:2026:SEASON:4:actual_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "actual_win_equivalent",
         "value": 1,
@@ -35575,7 +35575,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "analytic:2026:SEASON:4:schedule_luck",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "schedule_luck",
         "value": 0.38888888888888884,
@@ -35591,7 +35591,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "analytic:2026:SEASON:4:weekly_high_scores",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_high_scores",
         "value": 0,
@@ -35607,7 +35607,7 @@
       "banter_name": "Bud Lightning",
       "team_name": "Colt 85",
       "record_key": "analytic:2026:SEASON:4:weekly_low_scores",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_low_scores",
         "value": 0,
@@ -35623,7 +35623,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "analytic:2026:SEASON:5:games_played",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "games_played",
         "value": 1,
@@ -35639,7 +35639,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "analytic:2026:SEASON:5:points_for",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points_for",
         "value": 21.5,
@@ -35655,7 +35655,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "analytic:2026:SEASON:5:points_against",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points_against",
         "value": 0,
@@ -35671,7 +35671,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "analytic:2026:SEASON:5:average_points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "average_points",
         "value": 21.5,
@@ -35687,7 +35687,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "analytic:2026:SEASON:5:all_play_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_wins",
         "value": 8,
@@ -35703,7 +35703,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "analytic:2026:SEASON:5:all_play_losses",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_losses",
         "value": 1,
@@ -35719,7 +35719,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "analytic:2026:SEASON:5:all_play_ties",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_ties",
         "value": 0,
@@ -35735,7 +35735,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "analytic:2026:SEASON:5:expected_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "expected_wins",
         "value": 0.8888888888888888,
@@ -35751,7 +35751,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "analytic:2026:SEASON:5:actual_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "actual_win_equivalent",
         "value": 1,
@@ -35767,7 +35767,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "analytic:2026:SEASON:5:schedule_luck",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "schedule_luck",
         "value": 0.11111111111111116,
@@ -35783,7 +35783,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "analytic:2026:SEASON:5:weekly_high_scores",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_high_scores",
         "value": 0,
@@ -35799,7 +35799,7 @@
       "banter_name": "Tat Daddy",
       "team_name": "Skattebo Baggins",
       "record_key": "analytic:2026:SEASON:5:weekly_low_scores",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_low_scores",
         "value": 0,
@@ -35815,7 +35815,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "analytic:2026:SEASON:6:games_played",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "games_played",
         "value": 1,
@@ -35831,7 +35831,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "analytic:2026:SEASON:6:points_for",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points_for",
         "value": 39.2,
@@ -35847,7 +35847,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "analytic:2026:SEASON:6:points_against",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points_against",
         "value": 0,
@@ -35863,7 +35863,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "analytic:2026:SEASON:6:average_points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "average_points",
         "value": 39.2,
@@ -35879,7 +35879,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "analytic:2026:SEASON:6:all_play_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_wins",
         "value": 9,
@@ -35895,7 +35895,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "analytic:2026:SEASON:6:all_play_losses",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_losses",
         "value": 0,
@@ -35911,7 +35911,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "analytic:2026:SEASON:6:all_play_ties",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_ties",
         "value": 0,
@@ -35927,7 +35927,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "analytic:2026:SEASON:6:expected_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "expected_wins",
         "value": 1,
@@ -35943,7 +35943,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "analytic:2026:SEASON:6:actual_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "actual_win_equivalent",
         "value": 1,
@@ -35959,7 +35959,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "analytic:2026:SEASON:6:schedule_luck",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "schedule_luck",
         "value": 0,
@@ -35975,7 +35975,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "analytic:2026:SEASON:6:weekly_high_scores",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_high_scores",
         "value": 1,
@@ -35991,7 +35991,7 @@
       "banter_name": "Judacris",
       "team_name": "Njigbas in Paris",
       "record_key": "analytic:2026:SEASON:6:weekly_low_scores",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_low_scores",
         "value": 0,
@@ -36007,7 +36007,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "analytic:2026:SEASON:7:games_played",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "games_played",
         "value": 1,
@@ -36023,7 +36023,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "analytic:2026:SEASON:7:points_for",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points_for",
         "value": 0,
@@ -36039,7 +36039,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "analytic:2026:SEASON:7:points_against",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points_against",
         "value": 6,
@@ -36055,7 +36055,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "analytic:2026:SEASON:7:average_points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "average_points",
         "value": 0,
@@ -36071,7 +36071,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "analytic:2026:SEASON:7:all_play_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_wins",
         "value": 0,
@@ -36087,7 +36087,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "analytic:2026:SEASON:7:all_play_losses",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_losses",
         "value": 6,
@@ -36103,7 +36103,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "analytic:2026:SEASON:7:all_play_ties",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_ties",
         "value": 3,
@@ -36119,7 +36119,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "analytic:2026:SEASON:7:expected_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "expected_wins",
         "value": 0.16666666666666666,
@@ -36135,7 +36135,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "analytic:2026:SEASON:7:actual_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "actual_win_equivalent",
         "value": 0,
@@ -36151,7 +36151,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "analytic:2026:SEASON:7:schedule_luck",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "schedule_luck",
         "value": -0.16666666666666666,
@@ -36167,7 +36167,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "analytic:2026:SEASON:7:weekly_high_scores",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_high_scores",
         "value": 0,
@@ -36183,7 +36183,7 @@
       "banter_name": "SuperMenn",
       "team_name": "HurtswhenITutenmyLemon",
       "record_key": "analytic:2026:SEASON:7:weekly_low_scores",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_low_scores",
         "value": 0,
@@ -36199,7 +36199,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "analytic:2026:SEASON:8:games_played",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "games_played",
         "value": 1,
@@ -36215,7 +36215,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "analytic:2026:SEASON:8:points_for",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points_for",
         "value": 6,
@@ -36231,7 +36231,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "analytic:2026:SEASON:8:points_against",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points_against",
         "value": 0,
@@ -36247,7 +36247,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "analytic:2026:SEASON:8:average_points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "average_points",
         "value": 6,
@@ -36263,7 +36263,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "analytic:2026:SEASON:8:all_play_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_wins",
         "value": 5,
@@ -36279,7 +36279,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "analytic:2026:SEASON:8:all_play_losses",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_losses",
         "value": 3,
@@ -36295,7 +36295,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "analytic:2026:SEASON:8:all_play_ties",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_ties",
         "value": 1,
@@ -36311,7 +36311,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "analytic:2026:SEASON:8:expected_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "expected_wins",
         "value": 0.6111111111111112,
@@ -36327,7 +36327,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "analytic:2026:SEASON:8:actual_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "actual_win_equivalent",
         "value": 1,
@@ -36343,7 +36343,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "analytic:2026:SEASON:8:schedule_luck",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "schedule_luck",
         "value": 0.38888888888888884,
@@ -36359,7 +36359,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "analytic:2026:SEASON:8:weekly_high_scores",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_high_scores",
         "value": 0,
@@ -36375,7 +36375,7 @@
       "banter_name": "Silence Embodied",
       "team_name": "Kittle’s Little Lambs ",
       "record_key": "analytic:2026:SEASON:8:weekly_low_scores",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_low_scores",
         "value": 0,
@@ -36391,7 +36391,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "analytic:2026:SEASON:9:games_played",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "games_played",
         "value": 1,
@@ -36407,7 +36407,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "analytic:2026:SEASON:9:points_for",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points_for",
         "value": 5.6,
@@ -36423,7 +36423,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "analytic:2026:SEASON:9:points_against",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points_against",
         "value": 11.82,
@@ -36439,7 +36439,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "analytic:2026:SEASON:9:average_points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "average_points",
         "value": 5.6,
@@ -36455,7 +36455,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "analytic:2026:SEASON:9:all_play_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_wins",
         "value": 4,
@@ -36471,7 +36471,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "analytic:2026:SEASON:9:all_play_losses",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_losses",
         "value": 5,
@@ -36487,7 +36487,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "analytic:2026:SEASON:9:all_play_ties",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_ties",
         "value": 0,
@@ -36503,7 +36503,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "analytic:2026:SEASON:9:expected_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "expected_wins",
         "value": 0.4444444444444444,
@@ -36519,7 +36519,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "analytic:2026:SEASON:9:actual_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "actual_win_equivalent",
         "value": 0,
@@ -36535,7 +36535,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "analytic:2026:SEASON:9:schedule_luck",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "schedule_luck",
         "value": -0.4444444444444444,
@@ -36551,7 +36551,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "analytic:2026:SEASON:9:weekly_high_scores",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_high_scores",
         "value": 0,
@@ -36567,7 +36567,7 @@
       "banter_name": "The Viral Caterpillar",
       "team_name": "Justin the Tip",
       "record_key": "analytic:2026:SEASON:9:weekly_low_scores",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_low_scores",
         "value": 0,
@@ -36583,7 +36583,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "analytic:2026:SEASON:10:games_played",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "games_played",
         "value": 1,
@@ -36599,7 +36599,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "analytic:2026:SEASON:10:points_for",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points_for",
         "value": 0,
@@ -36615,7 +36615,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "analytic:2026:SEASON:10:points_against",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "points_against",
         "value": 21.5,
@@ -36631,7 +36631,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "analytic:2026:SEASON:10:average_points",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "average_points",
         "value": 0,
@@ -36647,7 +36647,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "analytic:2026:SEASON:10:all_play_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_wins",
         "value": 0,
@@ -36663,7 +36663,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "analytic:2026:SEASON:10:all_play_losses",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_losses",
         "value": 6,
@@ -36679,7 +36679,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "analytic:2026:SEASON:10:all_play_ties",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "all_play_ties",
         "value": 3,
@@ -36695,7 +36695,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "analytic:2026:SEASON:10:expected_wins",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "expected_wins",
         "value": 0.16666666666666666,
@@ -36711,7 +36711,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "analytic:2026:SEASON:10:actual_win_equivalent",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "actual_win_equivalent",
         "value": 0,
@@ -36727,7 +36727,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "analytic:2026:SEASON:10:schedule_luck",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "schedule_luck",
         "value": -0.16666666666666666,
@@ -36743,7 +36743,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "analytic:2026:SEASON:10:weekly_high_scores",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_high_scores",
         "value": 0,
@@ -36759,7 +36759,7 @@
       "banter_name": "Jared Fogle",
       "team_name": "DK & Bowsers",
       "record_key": "analytic:2026:SEASON:10:weekly_low_scores",
-      "generated_at": "2026-09-10T20:07:35.519Z",
+      "generated_at": "2026-09-10T22:11:41.806Z",
       "payload": {
         "metric": "weekly_low_scores",
         "value": 0,
